@@ -1,5 +1,6 @@
 ### Hi there 👋
  I'm an adventurous spirit who thrives on exploring new frontiers 🌌, whether it's the latest technology 📱 or the mysteries of outer space 🚀.
+ 
 
 ### 🧰 Languages and Tools
 
@@ -22,3 +23,4 @@
 
 
 <br />
+[![Soumojit's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikusoumo)](https://github.com/anuraghazra/github-readme-stats)
