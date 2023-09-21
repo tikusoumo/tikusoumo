@@ -1,4 +1,4 @@
-### Hi there 👋
+### Soumojit Datta🎸🎸🤖
  I'm an adventurous spirit who thrives on exploring new frontiers 🌌, whether it's the latest technology 📱 or the mysteries of outer space 🚀.
 
  [![Soumojit's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikusoumo&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
