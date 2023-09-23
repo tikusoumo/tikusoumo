@@ -23,7 +23,6 @@ I'm an adventurous spirit who thrives on exploring new frontiers 🌌, whether i
 
 <a href="http://www.github.com/tikusoumo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tikusoumo&stroke=f97316&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=f97316&currStreakLabel=ec4899&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="http://www.github.com/tikusoumo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tikusoumo&bg_color=1c1917&color=f97316&line=22c55e&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/tikusoumo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikusoumo&langs_count=10&title_color=ec4899&text_color=f97316&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
